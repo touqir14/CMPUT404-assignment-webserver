@@ -7,6 +7,8 @@ See requirements.org (plain-text) for a description of the project.
 
 Make a simple webserver.
 
+This is Assignment 1 for cmput 404 fall 2016 done by Touqir Sajed
+
 Contributors / Licensing
 ========================
 
