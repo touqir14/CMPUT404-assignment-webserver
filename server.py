@@ -2,8 +2,9 @@
 import SocketServer
 import mimetypes 
 import os.path
-
-# Copyright 2013 Touqir Sajed, Abram Hindle, Eddie Antonio Santos
+#
+# Copyright 2016 Touqir Sajed
+# Copyright 2013 Abram Hindle, Eddie Antonio Santos
 # 
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
