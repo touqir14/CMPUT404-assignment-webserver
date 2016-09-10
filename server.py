@@ -40,7 +40,6 @@ class LinkManager:
     def getPageLocation(self, URL):
         if URL[-1]=="/": URL=URL[:-1]
         localLink=os.path.realpath(self.ROOTDIR+URL)
-        print (localLink)
         status=None
         if os.path.isfile(localLink):
             if self.ROOTDIR in localLink:
