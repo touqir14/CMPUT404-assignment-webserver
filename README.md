@@ -14,6 +14,7 @@ Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
 
 server.py contains contributions from:
 
+* Touqir Sajed
 * Abram Hindle
 * Eddie Antonio Santos
 
